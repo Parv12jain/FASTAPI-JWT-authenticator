@@ -1,13 +1,11 @@
-# ---- Core API ----
-fastapi==0.110.0
-uvicorn==0.27.1
-
-# ---- Validation & Auth ----
-pydantic==2.6.4
-PyJWT==2.8.0
-
-# ---- ML Stack (MATCHED) ----
-scikit-learn==1.5.2
-numpy==1.26.4
-pandas==2.2.2
-joblib==1.4.2
+fastapi
+uvicorn
+streamlit
+pydantic
+python-jose
+PyJWT
+scikit-learn
+numpy
+pandas
+requests
+joblib
