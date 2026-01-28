@@ -1,11 +1,9 @@
 fastapi
 uvicorn
-streamlit
 pydantic
-python-jose
 PyJWT
-scikit-learn
 numpy
 pandas
-requests
 joblib
+scikit-learn==1.5.2
+
